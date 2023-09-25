@@ -1,0 +1,120 @@
+a {
+  text-decoration: none;
+  color: white;
+}
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 980px;
+  margin: 12px auto;
+  padding: 0;
+}
+.nav-items {
+  font-size: x-large;
+}
+li {
+  overflow: hidden;
+  color: #ffff;
+  margin-top: 15px;
+}
+.container {
+  background-color: #282a35;
+  height: 80px;
+}
+
+.btn {
+  background-color: rgb(73, 133, 73);
+  color: #fff;
+  height: 45px;
+  width: 60px;
+  transition: 130ms;
+}
+.ww {
+  background-color: rgb(73, 133, 73);
+  color: #fff;
+  height: 45px;
+  width: 60px;
+  transition: 130ms;
+}
+.ww:active {
+  background-color: rgb(255, 232, 99);
+  color: rgb(52, 52, 52);
+  scale: 1.1;
+}
+.btn:active {
+  background-color: rgb(255, 232, 99);
+  color: rgb(52, 52, 52);
+  scale: 1.1;
+}
+.box {
+  background-color: rgb(214, 255, 153);
+  padding: 30px;
+}
+.ttt {
+  background-color: rgb(73, 133, 73);
+  width: 223px;
+  height: 45px;
+  top: 525px;
+  color: #ffff;
+  left: 12px;
+  transition: 130ms;
+  position: absolute;
+}
+
+.gungame {
+  background-color: black;
+  color: #ffff;
+  position: absolute;
+  top: 525px;
+  left: 240px;
+  width: 185px;
+  height: 45px;
+  transition: 130ms;
+}
+.gungame:active {
+  background-color: rgb(255, 232, 99);
+  color: rgb(52, 52, 52);
+  scale: 1.1;
+}
+.ttt:active {
+  background-color: rgb(255, 232, 99);
+  color: rgb(52, 52, 52);
+  scale: 1.1;
+}
+
+.box p {
+  padding: 20px;
+}
+
+.qwer {
+  width: 170px;
+  height: 45px;
+  background-color: rgb(73, 133, 73);
+  color: #fff;
+  transition: 130ms;
+}
+
+.qwer:active {
+  background-color: rgb(255, 232, 99);
+  color: rgb(52, 52, 52);
+  scale: 1.1;
+}
+.zz {
+  position: absolute;
+  left: 33px;
+  margin-top: 12px;
+}
+.rr {
+  background-color: #d9d6d6;
+  top: 1150px;
+  width: 1209px;
+  border-radius: 7px;
+  height: 43px;
+}
+.yy {
+  background-color: rgb(73, 133, 73);
+  width: 200px;
+  height: 45px;
+  margin-top: 44px;
+}
